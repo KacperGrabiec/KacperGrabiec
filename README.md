@@ -15,3 +15,5 @@ I am a student of Computer Science at Politechnika Śląska.
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inux71&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
