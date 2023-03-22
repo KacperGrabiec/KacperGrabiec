@@ -14,4 +14,4 @@ https://www.grabieckacper.com/
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inux71&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inux71&hide=jupyter%20notebook,html&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
