@@ -4,4 +4,6 @@ I am a student of Computer Science at Politechnika Śląska.
 
 https://www.grabieckacper.com/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inux71&hide=jupyter%20notebook,html,css,batchfile,autoit,dockerfile&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+### Technologies I use: ###
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,swift)](https://skillicons.dev)
