@@ -1,6 +1,6 @@
 ### Hi everyone! My name is Kacper Grabiec 👋
 
-I am a student of Computer Science at Politechnika Śląska.
+Bachelor of Engineering in Computer Science.
 
 https://www.grabieckacper.com/
 
